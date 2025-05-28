@@ -2,8 +2,7 @@
 Analysis of Vodafone Users' fluxes : data analysis project for the 1st year course Laboratory of Computational Physics at the MSc in Physics of Data
 # Urban Mobility Analysis: Padova Traffic Flows
 
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Data Analysis](https://img.shields.io/badge/Analysis-Urban_Mobility-blue?style=for-the-badge)](https://github.com/your-username/padova-mobility-analysis)
+[![Data Analysis](https://img.shields.io/badge/Analysis-Urban_Mobility-blue?style=for-the-badge)]
 
 Statistical analysis of human mobility patterns in Padova, Italy using anonymized mobile carrier data to inform urban planning and transportation infrastructure decisions.
 
